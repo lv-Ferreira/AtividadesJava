@@ -1,3 +1,5 @@
+package AssociacaoDeClasses.src;
+
 public class Carro {
     
     private String Modelo;

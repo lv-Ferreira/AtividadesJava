@@ -1,3 +1,5 @@
+package AssociacaoDeClasses.src;
+
 import java.util.Date;
 
 public class Pessoa {

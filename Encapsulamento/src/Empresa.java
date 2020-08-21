@@ -1,3 +1,5 @@
+package Encapsulamento.src;
+
 public class Empresa {
     
     private String nome;
