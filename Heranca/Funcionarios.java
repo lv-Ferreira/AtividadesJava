@@ -1,6 +1,6 @@
 package Heranca;
 
-public class Funcionarios{
+public class Funcionarios extends Pessoa{
     private float salario;
     private String matricula;
 

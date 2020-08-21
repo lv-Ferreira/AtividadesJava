@@ -1,6 +1,6 @@
 package Heranca;
 
-public class Aluno {
+public class Aluno extends Pessoa{
     private String registroAcademico;
     private String curso;
     private float mensalidade;
